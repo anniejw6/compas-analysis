@@ -1,11 +1,9 @@
-                  Low  High
-                 +---------+
-Didn't Reoffend  |____|____|
-Reoffended       |    |    |
-                 +---------+
+Partial Re-Analysis of ProPublica's Analysis
+=============
 
+This repo contains my (partial) re-analysis of the ProPublica story "Machine Bias."
 
-This repository contains a Jupyter notebook and data for the ProPublica story "Machine Bias."
+The only part changed from the original is [`regression-correction.ipynb`](https://github.com/anniejw6/compas-analysis/blob/master/regression-correction.ipynb).
 
 Story:
 https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/
